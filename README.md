@@ -1,1 +1,1 @@
-# tabio10
+Versión con módulo de Información General incluido antes de los 6 módulos principales.
